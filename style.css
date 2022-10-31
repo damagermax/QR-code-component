@@ -49,6 +49,7 @@ body {
   color: var(--Dark-blue);
   font-weight: 700;
   padding-inline: 1rem;
+  font-size: 1.5rem;
 }
 
 .card .info {
